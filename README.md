@@ -5,5 +5,5 @@ This practice is intended to define the numerical procedures for deriving basic 
 ## Reference ##
 
 [1]  https://www.knuterikevensen.com/?p=2765&fbclid=IwAR3hFxmZnh0aq3gwqvcJJPW30VQdzUQX4q3Dg8Fpso8YbDdDqGW_DZux8zo    
-[2]  [SMPTE RP-177:1993] (http://car.france3.mars.free.fr/HD/INA-%2026%20jan%2006/SMPTE%20normes%20et%20confs/rp177.pdf)  
+[2]  [SMPTE RP-177:1993](http://car.france3.mars.free.fr/HD/INA-%2026%20jan%2006/SMPTE%20normes%20et%20confs/rp177.pdf)  
 [3]  http://www.brucelindbloom.com/index.html?WorkingSpaceInfo.html  
